@@ -7,13 +7,13 @@
       Home
     </NuxtLink>
     <NuxtLink to="/blogs" class="hover:underline">
-      Blogs
+      Blog
     </NuxtLink>
     <NuxtLink to="/categories" class="hover:underline">
-      Categories
+      Kategori
     </NuxtLink>
     <NuxtLink to="/about" class="hover:underline">
-      About Me
+      About
     </NuxtLink>
   </div>
 </template>

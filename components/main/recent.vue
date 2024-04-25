@@ -26,10 +26,10 @@ useHead({
     {
       name: 'description',
       content:
-        'Welcome To My Blog Site. Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+        'Selamat datang di sunnycodes. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'sunnycodes\'s Blog - %s',
 })
 </script>
 
@@ -38,7 +38,7 @@ useHead({
     <div class="flex flex-row items-center space-x-3 pt-5 pb-3">
       <Icon name="mdi:star-three-points-outline" size="2em" class="text-black dark:text-zinc-300  " />
       <h2 class="text-4xl font-semibold text-black dark:text-zinc-300   ">
-        Recent Post
+        Terbaru
       </h2>
     </div>
 

@@ -6,8 +6,7 @@
           Welcome To My Blog Site
         </h1>
         <p class="dark:text-zinc-300  ">
-          Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles,
-          Tips, Learning resources and more.
+          Selamat datang di sunnycodes. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.
         </p>
       </div>
       <div class="px-6 justify-self-center">

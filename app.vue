@@ -1,6 +1,6 @@
 <script setup>
 const description
-  = 'Riyad, Software Engineer at AppsCode working on ByteBuilders, with over 2+ years experience in Frontend development.'
+  = 'Disini Anda dapat menemukan artikel dan kode sumber yang kami buat.'
 const ogTitle
   = 'Riyad codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving'
 const twitterDescription
@@ -10,7 +10,7 @@ const image
 const mySite = 'https://blog-nurriyad.vercel.app/'
 useHead({
   htmlAttrs: {
-    lang: 'en',
+    lang: 'id',
   },
   meta: [
     {
@@ -37,7 +37,7 @@ useHead({
       content: image,
     },
     // Test on: https://cards-dev.twitter.com/validator or https://socialsharepreview.com/
-    { name: 'twitter:site', content: '@qdnvubp' },
+    { name: 'twitter:site', content: '@foxyfoxy93' },
     { name: 'twitter:card', content: 'summary_large_image' },
     {
       name: 'twitter:url',

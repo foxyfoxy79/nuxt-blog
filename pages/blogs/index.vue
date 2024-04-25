@@ -62,10 +62,10 @@ useHead({
   meta: [
     {
       name: 'description',
-      content: 'Here you will find all the blog posts I have written & published on this site.',
+      content: 'Disini Anda dapat menemukan artikel dan kode smber yang kami buat.',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'sunnycodes\'s Blog - %s',
 })
 
 // Generate OG Image
@@ -73,7 +73,7 @@ const siteData = useSiteConfig()
 defineOgImage({
   props: {
     title: 'Archive',
-    description: 'Here you will find all the blog posts I have written & published on this site.',
+    description: 'Disini Anda dapat menemukan artikel dan kode smber yang kami buat.',
     siteName: siteData.url,
   },
 })

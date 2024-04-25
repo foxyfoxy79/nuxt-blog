@@ -4,12 +4,11 @@
       Connect With Me
     </p>
     <p class="dark:text-zinc-300  ">
-      I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you
-      have an interesting idea, either open source or paid let's connect.
+      Kami memiliki keahlian membuat aplikasi web
     </p>
 
     <a
-      href="mailto: alasadnurriyad4@gmail.com"
+      href="mailto: dwipurnomo@sunnycodes.com"
       class="block text-center w-full bg-sky-700 p-2 rounded-lg text-[#F1F2F4]  mt-3 text-sm"
     >
       Sent Mail

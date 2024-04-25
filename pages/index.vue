@@ -5,18 +5,18 @@ useHead({
     {
       name: 'description',
       content:
-        'Welcome To My Blog Site. Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+        'Selamat datang di sunnycodes. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'sunnycodes\'s Blog - %s',
 })
 
 // Generate OG Image
 defineOgImageComponent('About', {
-  headline: 'Greetings 👋',
-  title: 'Riyad\'s Blog',
-  description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
-  link: '/riyad.jpg',
+  headline: 'Salam',
+  title: 'sunnycodes\'s Blog',
+  description: 'Selamat datang di sunnycodes. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.',
+  link: '/sunnycodes.jpg',
 })
 </script>
 
