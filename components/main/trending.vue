@@ -26,10 +26,10 @@ useHead({
     {
       name: 'description',
       content:
-        'Selamat datang di sunnycodes. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.',
+        'Selamat datang di sunsetcodes. Temukan jasa pembuatan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.',
     },
   ],
-  titleTemplate: 'sunnycodes\'s Blog - %s',
+  titleTemplate: 'sunsetcodes\'s Blog - %s',
 })
 </script>
 

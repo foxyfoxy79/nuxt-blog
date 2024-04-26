@@ -6,7 +6,7 @@
           Semua Blog
         </h1>
         <p class="dark:text-zinc-300">
-          Disini Anda dapat menemukan semua artikel dan kode sumber
+          Disini Anda dapat menemukan semua artikel dan kode sumber aplikasi web modern
         </p>
       </div>
       <div class="px-6 justify-self-center">

@@ -13,11 +13,11 @@ function onClick(val: string) {
           <div class="flex items-end">
           <NuxtImg
               src="/logo.png"
-              alt="logo sunnyodes"
+              alt="logo sunsetcodes"
               width=40>
           </NuxtImg>
           <NuxtLink to="/">
-            sunnycodes
+            sunsetcodes
           </NuxtLink>
           </div>
         </li>

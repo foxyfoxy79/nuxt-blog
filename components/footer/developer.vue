@@ -4,7 +4,7 @@
       sunnycodes
     </p>
     <p class="py-2 dark:text-zinc-300  ">
-      Kami adalah pengembang aplikasi web yang berdomisili di Sleman, Yogyakarta
+      Kami adalah pengembang aplikasi web modern yang berdomisili di Sleman, Yogyakarta
     </p>
     <div class="my-3 space-x-3 pb-3">
       <NuxtLink

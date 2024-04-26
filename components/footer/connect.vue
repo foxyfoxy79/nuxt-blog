@@ -4,7 +4,7 @@
       Connect With Me
     </p>
     <p class="dark:text-zinc-300  ">
-      Kami memiliki keahlian membuat aplikasi web
+      Kami memiliki keahlian membuat aplikasi web yang modern
     </p>
 
     <a

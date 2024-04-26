@@ -1,13 +1,13 @@
 <script setup>
 const description
-  = 'Disini Anda dapat menemukan artikel dan kode sumber yang kami buat.'
+  = 'Disini Anda dapat menemukan artikel dan kode sumber berbasis nuxt.js yang kami buat.'
 const ogTitle
-  = 'Riyad codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving'
+  = 'Disini Anda dapat menemukan artikel dan kode sumber berbasis nuxt.js yang kami buat.'
 const twitterDescription
-  = 'My blog website, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc'
+  = 'Disini Anda dapat menemukan artikel dan kode sumber berbasis nuxt.js yang kami buat.'
 const image
   = 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp'
-const mySite = 'https://blog-nurriyad.vercel.app/'
+const mySite = 'https://sunsetcodes.com/'
 useHead({
   htmlAttrs: {
     lang: 'id',
