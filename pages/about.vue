@@ -1,8 +1,8 @@
 <script setup lang="ts">
 defineOgImageComponent('About', {
   headline: 'Salam‘‹',
-  title: 'sunnycodes\'s Blog',
-  description: 'Selamat datang di sunnycodes. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.',
+  title: 'sunsetcodes\'s Blog',
+  description: 'Selamat datang di sunsetcodes. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.',
   link: '/sunnycodes.jpg',
 })
 </script>
@@ -14,7 +14,7 @@ defineOgImageComponent('About', {
         <div class="flex justify-between">
           <div>
             <h1 class="text-xl sm:text-4xl  pb-2 font-bold ">
-              sunnycodes
+              sunsetcodes
             </h1>
 
             <div class="my-3 space-x-2 md:space-x-3 pb-10">
@@ -45,7 +45,7 @@ defineOgImageComponent('About', {
           Pembuat aplikasi web.
         </h3>
 
-        <p>Halo, kami adalah pembuat aplikasi web dengan keahlian menggunakan nuxt.js yang berdomisili di Kalasan, Sleman, DI Yogyakarta. Temukan jasa pembutan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.</p>
+        <p>Halo, kami adalah pembuat aplikasi web dengan keahlian menggunakan nuxt.js yang berdomisili di Kalasan, Sleman, DI Yogyakarta. Temukan jasa pembuatan, artikel dan unduh kode sumber aplikasi web yang modern dengan nuxt.js framework yang menguntungkan.</p>
       </div>
       <div class="hidden sm:block col-span-3">
         <NuxtImg
