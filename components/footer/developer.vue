@@ -1,10 +1,10 @@
 <template>
   <div>
     <p class="text-black dark:text-zinc-300   text-2xl py-1 font-semibold">
-      sunnycodes
+      sunsetcodes
     </p>
     <p class="py-2 dark:text-zinc-300  ">
-      Kami adalah pengembang aplikasi web modern yang berdomisili di Sleman, Yogyakarta
+      Kami adalah pengembang aplikasi web modern yang berdomisili di Kalasan, Sleman, Yogyakarta
     </p>
     <div class="my-3 space-x-3 pb-3">
       <NuxtLink
