@@ -16,7 +16,7 @@ const data = computed<BlogPost>(() => {
     alt: articles.value?.alt || 'no alter data available',
     ogImage: articles.value?.ogImage || '/not-found.jpg',
     date: articles.value?.date || 'not-date-available',
-    tags: articles.value?.tags || [],
+    tags: articles.value?.ttags || [],
     published: articles.value?.published || false,
   }
 })
@@ -30,11 +30,11 @@ useHead({
       content: data.value.description,
     },
     // Test on: https://developers.facebook.com/tools/debug/ or https://socialsharepreview.com/
-    { property: 'og:site_name', content: 'Riyad\'s Blog' },
+    { property: 'og:site_name', content: 'sunsetcodes\'s Blog' },
     { hid: 'og:type', property: 'og:type', content: 'website' },
     {
       property: 'og:url',
-      content: `https://blog-nurriyad.vercel.app/${path}`,
+      content: `https://sunsetcodes.com/${path}`,
     },
     {
       property: 'og:title',
@@ -49,11 +49,11 @@ useHead({
       content: data.value.ogImage || data.value.image,
     },
     // Test on: https://cards-dev.twitter.com/validator or https://socialsharepreview.com/
-    { name: 'twitter:site', content: '@qdnvubp' },
+    { name: 'twitter:site', content: '@foxyfoxy93' },
     { name: 'twitter:card', content: 'summary_large_image' },
     {
       name: 'twitter:url',
-      content: `https://blog-nurriyad.vercel.app/${path}`,
+      content: `https://sunsetcodes.com/${path}`,
     },
     {
       name: 'twitter:title',
@@ -71,14 +71,14 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: `https://blog-nurriyad.vercel.app/${path}`,
+      href: `https://sunsetcodes.com/${path}`,
     },
   ],
 })
 
 // Generate OG Image
 defineOgImageComponent('Test', {
-  headline: 'Greetings 👋',
+  headline: 'alam 👋',
   title: data.value.title || '',
   description: data.value.description || '',
   link: data.value.ogImage,
