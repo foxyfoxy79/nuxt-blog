@@ -55,14 +55,17 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
   ],
 
+  buildModules: [
+     '@nuxtjs/google-analytics',
+  ],
+
+  googleAnalytics: { 
+    id: 'G-7JLR2GBKZ1'
+  },
+
   content: {
     highlight: {
       theme: 'dracula',
-    },
-  },
-  runtimeConfig: {
-    public: {
-      gtagId: "G-7JLR2GBKZ1",
     },
   },
 })
